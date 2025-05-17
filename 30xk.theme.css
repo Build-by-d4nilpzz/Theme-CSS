@@ -1,6 +1,7 @@
-.theme-dark .inline,
-.theme-dark .markup-2BOw-j code,
-.theme-dark .hljs {
-  background-color: #2c2d30;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+code,
+.inline,
+.markup-2BOw-j code,
+.hljs {
+  background-color: #2c2d30 !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
 }
