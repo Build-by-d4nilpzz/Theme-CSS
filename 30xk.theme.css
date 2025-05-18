@@ -2,6 +2,11 @@ code,
 .inline,
 .markup-2BOw-j code,
 .hljs {
-  background-color: #2c2d30 !important;
-  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  background-color: #2c2d32 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 8px !important;
+}
+
+.inline {
+  border-radius: 6px !important;
 }
