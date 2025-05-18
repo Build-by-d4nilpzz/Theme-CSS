@@ -10,3 +10,16 @@ code,
 .inline {
   border-radius: 6px !important;
 }
+
+.button__67645[aria-checked="true"] {
+  background-color: rgba(173, 216, 230, 0.2) !important; /* fondo azul claro translúcido */
+}
+
+.button__67645[aria-checked="true"] .contents__201d5,
+.button__67645[aria-checked="true"] .contents__201d5 *,
+.button__67645[aria-checked="true"] .lottieIcon__5eb9b svg,
+.button__67645[aria-checked="true"] .lottieIcon__5eb9b path {
+  color: #d0f0ff !important;   /* azul muy claro */
+  fill: #d0f0ff !important;
+  stroke: #d0f0ff !important;
+}
